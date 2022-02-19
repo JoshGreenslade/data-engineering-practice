@@ -1,0 +1,5 @@
+downloads
+downloads/*
+__pycache__
+.pytest_cache
+Makefile
